@@ -1,0 +1,149 @@
+Environment variables:
+  - CINNAMON_VERSION=3.8.9
+  - COLORTERM=truecolor
+  - DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+  - DEFAULTS_PATH=/usr/share/gconf/cinnamon.default.path
+  - DERBY_HOME=/usr/lib/jvm/java-8-oracle/db
+  - DESKTOP_SESSION=cinnamon
+  - DISPLAY=:0
+  - GDMSESSION=cinnamon
+  - GDM_LANG=pt_BR
+  - GJS_DEBUG_OUTPUT=stderr
+  - GJS_DEBUG_TOPICS=JS ERROR;JS LOG
+  - GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+  - GNOME_TERMINAL_SCREEN=/org/gnome/Terminal/screen/39190b17_7849_4549_afea_9a7c40daa619
+  - GNOME_TERMINAL_SERVICE=:1.61
+  - GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+  - GTK_MODULES=gail:atk-bridge
+  - GTK_OVERLAY_SCROLLING=1
+  - HOME=/home/maike
+  - J2REDIR=/usr/lib/jvm/java-8-oracle/jre
+  - J2SDKDIR=/usr/lib/jvm/java-8-oracle
+  - JAVA_HOME=/home/maike/eclipse-workspace/sonar-scanner-3.2.0.1227-linux/jre
+  - LANG=pt_BR.UTF-8
+  - LANGUAGE=pt_BR:pt:en
+  - LESSCLOSE=/usr/bin/lesspipe %s %s
+  - LESSOPEN=| /usr/bin/lesspipe %s
+  - LOGNAME=maike
+  - LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:
+  - MANDATORY_PATH=/usr/share/gconf/cinnamon.mandatory.path
+  - NLSPATH=/usr/dt/lib/nls/msg/%L/%N.cat
+  - OLDPWD=/home/maike/eclipse-workspace
+  - PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin
+  - PWD=/home/maike/eclipse-workspace/Companhia
+  - QT_ACCESSIBILITY=1
+  - QT_QPA_PLATFORMTHEME=qt5ct
+  - SESSION_MANAGER=local/maike-Lenovo-ideapad-310-14ISK:@/tmp/.ICE-unix/2802,unix/maike-Lenovo-ideapad-310-14ISK:/tmp/.ICE-unix/2802
+  - SHELL=/bin/bash
+  - SHLVL=1
+  - SSH_AGENT_PID=2866
+  - SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+  - TERM=xterm-256color
+  - USER=maike
+  - VTE_VERSION=5202
+  - XAUTHORITY=/home/maike/.Xauthority
+  - XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg
+  - XDG_CURRENT_DESKTOP=X-Cinnamon
+  - XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/maike/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share
+  - XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/maike
+  - XDG_RUNTIME_DIR=/run/user/1000
+  - XDG_SEAT=seat0
+  - XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+  - XDG_SESSION_DESKTOP=cinnamon
+  - XDG_SESSION_ID=c2
+  - XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+  - XDG_SESSION_TYPE=x11
+  - XDG_VTNR=7
+  - XFILESEARCHPATH=/usr/dt/app-defaults/%L/Dt
+  - _=../sonar-scanner-3.2.0.1227-linux/bin/sonar-scanner
+System properties:
+  - awt.toolkit=sun.awt.X11.XToolkit
+  - file.encoding=UTF-8
+  - file.encoding.pkg=sun.io
+  - file.separator=/
+  - java.awt.graphicsenv=sun.awt.X11GraphicsEnvironment
+  - java.awt.headless=true
+  - java.awt.printerjob=sun.print.PSPrinterJob
+  - java.class.path=/home/maike/eclipse-workspace/sonar-scanner-3.2.0.1227-linux/lib/sonar-scanner-cli-3.2.0.1227.jar
+  - java.class.version=52.0
+  - java.endorsed.dirs=/home/maike/eclipse-workspace/sonar-scanner-3.2.0.1227-linux/jre/lib/endorsed
+  - java.ext.dirs=/home/maike/eclipse-workspace/sonar-scanner-3.2.0.1227-linux/jre/lib/ext:/usr/java/packages/lib/ext
+  - java.home=/home/maike/eclipse-workspace/sonar-scanner-3.2.0.1227-linux/jre
+  - java.io.tmpdir=/tmp
+  - java.library.path=/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+  - java.runtime.name=Java(TM) SE Runtime Environment
+  - java.runtime.version=1.8.0_121-b13
+  - java.specification.name=Java Platform API Specification
+  - java.specification.vendor=Oracle Corporation
+  - java.specification.version=1.8
+  - java.vendor=Oracle Corporation
+  - java.vendor.url=http://java.oracle.com/
+  - java.vendor.url.bug=http://bugreport.sun.com/bugreport/
+  - java.version=1.8.0_121
+  - java.vm.info=mixed mode
+  - java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+  - java.vm.specification.name=Java Virtual Machine Specification
+  - java.vm.specification.vendor=Oracle Corporation
+  - java.vm.specification.version=1.8
+  - java.vm.vendor=Oracle Corporation
+  - java.vm.version=25.121-b13
+  - line.separator=
+
+  - os.arch=amd64
+  - os.name=Linux
+  - os.version=4.15.0-38-generic
+  - path.separator=:
+  - project.home=/home/maike/eclipse-workspace/Companhia
+  - scanner.home=/home/maike/eclipse-workspace/sonar-scanner-3.2.0.1227-linux
+  - sun.arch.data.model=64
+  - sun.boot.class.path=/home/maike/eclipse-workspace/sonar-scanner-3.2.0.1227-linux/jre/lib/resources.jar:/home/maike/eclipse-workspace/sonar-scanner-3.2.0.1227-linux/jre/lib/rt.jar:/home/maike/eclipse-workspace/sonar-scanner-3.2.0.1227-linux/jre/lib/sunrsasign.jar:/home/maike/eclipse-workspace/sonar-scanner-3.2.0.1227-linux/jre/lib/jsse.jar:/home/maike/eclipse-workspace/sonar-scanner-3.2.0.1227-linux/jre/lib/jce.jar:/home/maike/eclipse-workspace/sonar-scanner-3.2.0.1227-linux/jre/lib/charsets.jar:/home/maike/eclipse-workspace/sonar-scanner-3.2.0.1227-linux/jre/lib/jfr.jar:/home/maike/eclipse-workspace/sonar-scanner-3.2.0.1227-linux/jre/classes
+  - sun.boot.library.path=/home/maike/eclipse-workspace/sonar-scanner-3.2.0.1227-linux/jre/lib/amd64
+  - sun.cpu.endian=little
+  - sun.cpu.isalist=
+  - sun.desktop=gnome
+  - sun.io.unicode.encoding=UnicodeLittle
+  - sun.java.command=org.sonarsource.scanner.cli.Main -X
+  - sun.java.launcher=SUN_STANDARD
+  - sun.jnu.encoding=UTF-8
+  - sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+  - sun.os.patch.level=unknown
+  - user.country=BR
+  - user.dir=/home/maike/eclipse-workspace/Companhia
+  - user.home=/home/maike
+  - user.language=pt
+  - user.name=maike
+  - user.timezone=America/Fortaleza
+SonarQube plugins:
+  - SonarPython 1.10.0.2131 (python)
+  - SonarCSS 1.0.2.611 (cssfamily)
+  - JaCoCo 1.0.1.143 (jacoco)
+  - SonarGo 1.1.0.1612 (go)
+  - SonarKotlin 1.2.1.2009 (kotlin)
+  - Svn 1.9.0.1295 (scmsvn)
+  - SonarJS 5.0.0.6962 (javascript)
+  - SonarRuby 1.2.1.2009 (ruby)
+  - SonarC# 7.7.0.7192 (csharp)
+  - SonarJava 5.8.0.15699 (java)
+  - LDAP 2.2.0.608 (ldap)
+  - Git 1.6.0.1349 (scmgit)
+  - SonarFlex 2.4.0.1222 (flex)
+  - SonarXML 1.5.1.1452 (xml)
+  - SonarPHP 2.14.0.3569 (php)
+  - SonarTS 1.8.0.3332 (typescript)
+  - SonarVB 7.7.0.7192 (vbnet)
+Global properties:
+  - sonar.core.id=BF41A1F2-AWbmKzbMXMxFvmpSZloP
+  - sonar.core.startTime=2018-11-06T09:48:31-0300
+Settings for module: Companhia
+  - sonar.host.url=http://localhost:9000
+  - sonar.java.binaries=bin/
+  - sonar.projectBaseDir=/home/maike/eclipse-workspace/Companhia
+  - sonar.projectKey=Companhia
+  - sonar.projectName=Companhia
+  - sonar.projectVersion=1.0
+  - sonar.scanner.app=ScannerCli
+  - sonar.scanner.appVersion=3.2.0.1227
+  - sonar.sourceEncoding=UTF-8
+  - sonar.sources=src/
+  - sonar.verbose=true
+  - sonar.working.directory=/home/maike/eclipse-workspace/Companhia/.scannerwork

@@ -1,0 +1,1 @@
+(7src/br/ufc/qxd/persistencia/view/field/FieldDouble.java 2javaXhr7src/br/ufc/qxd/persistencia/view/field/FieldDouble.java

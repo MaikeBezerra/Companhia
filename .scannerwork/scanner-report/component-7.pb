@@ -1,0 +1,1 @@
+src/br/ufc/qxd/persistencia :rsrc/br/ufc/qxd/persistencia

@@ -1,0 +1,1 @@
+$src/br/ufc/qxd/persistencia/dao/impl :	r$src/br/ufc/qxd/persistencia/dao/impl

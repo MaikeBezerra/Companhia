@@ -1,0 +1,1 @@
+Esrc/br/ufc/qxd/persistencia/dao/impl/PesquisadoresProjetosJPADAO.java 2javaXhrEsrc/br/ufc/qxd/persistencia/dao/impl/PesquisadoresProjetosJPADAO.java

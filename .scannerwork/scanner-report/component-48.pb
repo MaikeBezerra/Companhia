@@ -1,0 +1,1 @@
+0;src/br/ufc/qxd/persistencia/bean/PesquisadoresProjetos.java 2javaXOhr;src/br/ufc/qxd/persistencia/bean/PesquisadoresProjetos.java

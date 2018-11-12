@@ -1,0 +1,1 @@
+3src/META-INF :2rsrc/META-INF

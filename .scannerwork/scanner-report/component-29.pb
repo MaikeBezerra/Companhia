@@ -1,0 +1,1 @@
+2src/br/ufc/qxd/persistencia/view/AlocacaoView.java 2javaX‚hr2src/br/ufc/qxd/persistencia/view/AlocacaoView.java

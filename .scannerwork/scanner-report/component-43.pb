@@ -1,0 +1,1 @@
++-src/br/ufc/qxd/persistencia/bean/Projeto.java 2javaX\hr-src/br/ufc/qxd/persistencia/bean/Projeto.java

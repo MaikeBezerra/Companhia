@@ -1,0 +1,1 @@
+	2src/br/ufc/qxd/persistencia/dao/DependenteDAO.java 2javaXhr2src/br/ufc/qxd/persistencia/dao/DependenteDAO.java

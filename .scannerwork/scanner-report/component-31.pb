@@ -1,0 +1,1 @@
+7src/br/ufc/qxd/persistencia/dao/impl/LimpezaJPADAO.java 2javaX*hr7src/br/ufc/qxd/persistencia/dao/impl/LimpezaJPADAO.java

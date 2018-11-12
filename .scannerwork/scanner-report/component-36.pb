@@ -1,0 +1,1 @@
+$1src/br/ufc/qxd/persistencia/view/ProjetoView.java 2javaX¾hr1src/br/ufc/qxd/persistencia/view/ProjetoView.java

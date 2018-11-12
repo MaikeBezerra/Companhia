@@ -1,0 +1,1 @@
+/0src/br/ufc/qxd/persistencia/bean/Secretario.java 2javaX$hr0src/br/ufc/qxd/persistencia/bean/Secretario.java

@@ -1,0 +1,1 @@
+-src/br/ufc/qxd/persistencia/util/JPAUtil.java 2javaX,hr-src/br/ufc/qxd/persistencia/util/JPAUtil.java

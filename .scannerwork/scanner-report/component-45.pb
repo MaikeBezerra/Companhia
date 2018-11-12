@@ -1,0 +1,1 @@
+-1src/br/ufc/qxd/persistencia/bean/Funcionario.java 2javaXèhr1src/br/ufc/qxd/persistencia/bean/Funcionario.java

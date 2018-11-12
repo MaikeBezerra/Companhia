@@ -1,0 +1,1 @@
+%src/br/ufc/qxd/persistencia/Test.java 2javaX2hr%src/br/ufc/qxd/persistencia/Test.java

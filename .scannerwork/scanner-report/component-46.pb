@@ -1,0 +1,1 @@
+..src/br/ufc/qxd/persistencia/bean/Endereco.java 2javaXfhr.src/br/ufc/qxd/persistencia/bean/Endereco.java

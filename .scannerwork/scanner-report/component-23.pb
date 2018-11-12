@@ -1,0 +1,1 @@
+/src/br/ufc/qxd/persistencia/dao/GenericDAO.java 2javaXhr/src/br/ufc/qxd/persistencia/dao/GenericDAO.java

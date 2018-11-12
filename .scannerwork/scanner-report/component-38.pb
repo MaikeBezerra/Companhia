@@ -1,0 +1,1 @@
+& src/br/ufc/qxd/persistencia/bean :%')+,-./01*r src/br/ufc/qxd/persistencia/bean

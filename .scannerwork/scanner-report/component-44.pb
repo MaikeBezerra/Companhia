@@ -1,0 +1,1 @@
+,-src/br/ufc/qxd/persistencia/bean/Limpeza.java 2javaXZhr-src/br/ufc/qxd/persistencia/bean/Limpeza.java

@@ -1,0 +1,1 @@
+*2src/br/ufc/qxd/persistencia/bean/Departamento.java 2javaXLhr2src/br/ufc/qxd/persistencia/bean/Departamento.java
